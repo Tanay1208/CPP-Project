@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "65662fdf32bd8e2fd4ae952b"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "123",
+  "Quantity": "5"
+}]

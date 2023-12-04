@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "656630933e33f030e4767c9d"
+  },
+  "Rate": "500",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "5"
+},{
+  "_id": {
+    "$oid": "6566374c0e476220906103ee"
+  },
+  "Rate": "550",
+  "Quality": "Superior Quality",
+  "ItemName": "SteelPipes",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656637950e476220906103ef"
+  },
+  "Rate": "400",
+  "Quality": "Superior Quality",
+  "ItemName": "PVCPipes",
+  "Manufacturer": "Reliance",
+  "BatchNo": "3",
+  "Quantity": "5"
+}]

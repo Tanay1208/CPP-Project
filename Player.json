@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6399f3c30fd45540e0bbb8a3"
+  },
+  "name": "Ishita",
+  "dob": "2015-02-20",
+  "AgeGroup": "10",
+  "Sex": "Female",
+  "AddList": "Yes",
+  "District": "Dhule",
+  "Discipline": "Artistic"
+},{
+  "_id": {
+    "$oid": "63ba811319050f4548bcdc3d"
+  },
+  "name": "Meher",
+  "dob": "2001-12-21",
+  "AgeGroup": "S",
+  "Sex": "Female",
+  "AddList": "Yes",
+  "District": "Hingoli",
+  "Discipline": "Artistic"
+},{
+  "_id": {
+    "$oid": "65661a8b0fe6d73580744b84"
+  },
+  "name": "Tanay",
+  "dob": "1999-08-12",
+  "AgeGroup": "S",
+  "AddList": "Yes",
+  "District": "Pune",
+  "Discipline": "TAT"
+}]

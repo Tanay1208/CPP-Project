@@ -1,0 +1,373 @@
+[{
+  "_id": {
+    "$oid": "656630933e33f030e4767c9d"
+  },
+  "Rate": "500",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "5"
+},{
+  "_id": {
+    "$oid": "6566374c0e476220906103ee"
+  },
+  "Rate": "550",
+  "Quality": "Superior Quality",
+  "ItemName": "SteelPipes",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656637950e476220906103ef"
+  },
+  "Rate": "400",
+  "Quality": "Superior Quality",
+  "ItemName": "PVCPipes",
+  "Manufacturer": "Reliance",
+  "BatchNo": "3",
+  "Quantity": "5"
+},{
+  "_id": {
+    "$oid": "656cb4847054b4038463e46c"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cb9f32b87442670cc212d"
+  },
+  "Rate": "123",
+  "Quality": "Medium Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbad89ed799212401e006"
+  },
+  "Rate": "99",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbb32471e7c446424e884"
+  },
+  "Rate": "98",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e885"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e886"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e887"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e888"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e889"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e88a"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e88b"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc02471e7c446424e88c"
+  },
+  "Rate": "96",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbc284cdaf13c0c2b7f27"
+  },
+  "Rate": "88",
+  "Quality": "Medium Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f28"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f29"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f2a"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f2b"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f2c"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f2d"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f2e"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f2f"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f30"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd094cdaf13c0c2b7f31"
+  },
+  "Rate": "123",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd1ad5eba0345c98724d"
+  },
+  "Rate": "11",
+  "Quality": "Medium Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbd29d5eba0345c98724e"
+  },
+  "Rate": "11",
+  "Quality": "Superior Quality",
+  "ItemName": "SteelPipes",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbdf2eda00114ccb3e137"
+  },
+  "Rate": "12",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "2",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbe2ba474ca09f437df5e"
+  },
+  "Rate": "2",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "2",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbea5a2dcfc48d04a1bf7"
+  },
+  "Rate": "1",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "3",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbef6684fa40e9854bd62"
+  },
+  "Rate": "1",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "2",
+  "Quantity": "5",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cbff29a8bd22e100342e0"
+  },
+  "Rate": "1",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "3",
+  "Quantity": "22",
+  "file": ""
+},{
+  "_id": {
+    "$oid": "656cc030b92ffc4864f89b16"
+  },
+  "Rate": "1",
+  "Quality": "Superior Quality",
+  "ItemName": "Cement",
+  "Manufacturer": "Tata",
+  "BatchNo": "1",
+  "Quantity": "11",
+  "file": ""
+}]

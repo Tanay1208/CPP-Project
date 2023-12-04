@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "609b9530d1a3b00c30fa300c"
+  },
+  "owner": "Siasmic",
+  "shop": "abcd",
+  "number": "7276723200",
+  "password": "123456",
+  "email": "aaa@gmail.com",
+  "address": "aaaa",
+  "city": "Pune",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "pincode": "411014"
+},{
+  "_id": {
+    "$oid": "609b957ad1a3b00c30fa300d"
+  },
+  "owner": "Aakash",
+  "shop": "bhel",
+  "number": "9922125304",
+  "password": "123456",
+  "email": "aaaa@gmail.com",
+  "address": "aaaaa",
+  "city": "Meghalaya",
+  "district": "satara",
+  "state": "Maharashtra",
+  "pincode": "411014"
+},{
+  "_id": {
+    "$oid": "609bf2718abb7a18883095aa"
+  },
+  "owner": "Arjunn",
+  "shop": "Migate_GL",
+  "number": "7276723205",
+  "password": "12345",
+  "email": "maheshdhamdhere4703@gmail.com",
+  "address": "aaa",
+  "city": "pune",
+  "district": "pune",
+  "state": "assam",
+  "pincode": "411014"
+},{
+  "_id": {
+    "$oid": "609f9fa031daa128f076d214"
+  },
+  "owner": "Arjun",
+  "shop": "Migate_GL",
+  "number": "7276723204",
+  "password": "123456",
+  "email": "maheshdhamdhere4703@gmail.com",
+  "address": "ewe",
+  "city": "pune",
+  "district": "pune",
+  "state": "Maharashtra",
+  "pincode": "411014"
+},{
+  "_id": {
+    "$oid": "60ac86e6ffe2ca2ae884bf54"
+  },
+  "owner": "Amin ",
+  "shop": "Shaikh",
+  "number": "7020765276",
+  "password": "123456",
+  "email": "amin@gmail.com",
+  "address": "aaaa",
+  "city": "Pune",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "pincode": "411014"
+},{
+  "_id": {
+    "$oid": "60cd9ebf257a3a1fe8c4f62d"
+  },
+  "owner": "Ankit ",
+  "shop": "Sharma",
+  "number": "9730756348",
+  "password": "123456",
+  "email": "as419922@gmail.com",
+  "address": "pimple gurav",
+  "city": "Pune",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "pincode": "411027"
+},{
+  "_id": {
+    "$oid": "60de8fa2032f233e1018aeb4"
+  },
+  "owner": "Sanket",
+  "shop": "Wadje",
+  "number": "8482848200",
+  "password": "123456",
+  "email": "sanket@gmail.com",
+  "address": "aaaa",
+  "city": "Pune",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "pincode": "411014"
+},{
+  "_id": {
+    "$oid": "6277a9a8c530291294b9c90e"
+  },
+  "owner": "Tanay",
+  "shop": "Honrao",
+  "number": "8484848455",
+  "password": "123456",
+  "email": "maheshdhamdhere4703@gmail.com",
+  "address": "c1/3 Karan park Somnath nagar wadgaon sheri",
+  "city": "Pune",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "pincode": "411014"
+},{
+  "_id": {
+    "$oid": "6277b1558cd5aa33acb15033"
+  },
+  "owner": "TanayNew",
+  "shop": "Honrao",
+  "number": "7028474020",
+  "password": "123456",
+  "email": "abcd@gmail.com",
+  "address": "c1/8 Karan park Somnath nagar wadgaon sh",
+  "city": "Pune",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "pincode": "411014"
+}]
